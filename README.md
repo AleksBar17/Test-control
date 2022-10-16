@@ -3,5 +3,5 @@
 
 1. Создан репозиторий на GHub
 2. Создана бок-схема алгоритма
-3. ![блок-схема алгоритма задачи](blockshema.jpg))
+3. ![блок-схема алгоритма задачи](ttps://github.com/AleksBar17/Testcontrol/raw/main/blockshema/blockshema.jpg))
 
